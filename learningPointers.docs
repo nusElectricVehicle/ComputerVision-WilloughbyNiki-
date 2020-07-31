@@ -1,0 +1,8 @@
+For the input of data from the .imshow,
+
+the ret, frame = 
+
+1) "ret" will always be the value of "True"
+2) "frame" is the thing that you want to keep
+
+Source: https://stackoverflow.com/questions/45574730/meaning-of-comma-operator-in-python/45574816

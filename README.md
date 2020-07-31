@@ -1,5 +1,10 @@
 # nlyxComputerVision01
 
+Goal 1: This project will be looking at building a detection system for vehicles to identify buildings/objects.
+
+Goal 2: Build confidence of drivers who have just passed their driving test but do not have much experience driving at night
+
+______________________________________
 
 OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial)
 https://www.youtube.com/watch?v=eLTLtUVuuy4

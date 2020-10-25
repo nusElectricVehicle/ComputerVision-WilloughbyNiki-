@@ -1,6 +1,7 @@
 import cv2 as cv
 import numpy as np
- 
+
+#videoCapture is the method used for getting the camera, 0 is the instace of camera used
 cap = cv.VideoCapture(0)
 whT = 320
 confThreshold =0.5

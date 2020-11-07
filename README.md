@@ -4,6 +4,11 @@ Goal 1: This project will be looking at building a detection system for vehicles
 
 Goal 2: Build confidence of drivers who have just passed their driving test but do not have much experience driving at night
 
+Goal 3: Lane Dectection is done through differnet methods
+- Using Probabilistic Houghline Transform
+- Using Dilation-Countour Variation
+- Using HSV Tresholding with Histogram Computation
+
 ______________________________________
 
 OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial)
@@ -21,3 +26,6 @@ https://www.youtube.com/watch?v=WQeoO7MI0Bs
 
 YOLO Object Detection (TensorFlow tutorial)
 https://www.youtube.com/watch?v=4eIBisqx9_g
+
+OpenCV Course - Full Tutorial with Python
+https://www.youtube.com/watch?v=oXlwWbU8l2o

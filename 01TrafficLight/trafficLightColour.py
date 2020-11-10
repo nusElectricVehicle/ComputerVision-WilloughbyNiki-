@@ -1,6 +1,7 @@
 #Detecting colors (Hsv Color Space) - Opencv with Python
 #https://www.youtube.com/watch?v=Q0IPYlIK-4A
 #YouTube by Pysource
+# Py
 
 import cv2
 import numpy as np

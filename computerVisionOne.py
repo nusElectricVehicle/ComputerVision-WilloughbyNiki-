@@ -3,7 +3,6 @@ import cv2
 import utlis
 
 ####################################################
-
 #https://www.youtube.com/watch?v=-RuWTwDlot8
 cameraFeed= False
 videoPath = 'project_video.mp4'

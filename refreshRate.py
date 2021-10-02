@@ -5,6 +5,7 @@ Digitalynx
 import cv2
 import time
 
+
 if __name__ == '__main__' :
 
     # Start default camera

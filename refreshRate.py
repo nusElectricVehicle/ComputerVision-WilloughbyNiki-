@@ -28,7 +28,6 @@ if __name__ == '__main__' :
     # Number of frames to capture
     num_frames = 120;
     
-    
     print("Capturing {0} frames".format(num_frames))
 
     # Start time

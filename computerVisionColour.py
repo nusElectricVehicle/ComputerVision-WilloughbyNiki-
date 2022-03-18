@@ -1,4 +1,3 @@
-
 #Realtime Color Detection (Webcam) [8] | OpenCV Python Tutorials for Beginners 2020
 #https://www.youtube.com/watch?v=Tj4zEX_pdUg
 
